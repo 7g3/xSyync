@@ -5,15 +5,15 @@
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
 ```csharp
-purplrain@github
+xSyncc@AltSec
 ----------------
 
        OS  :  Windows 10 x86
       CPU  :  AMD Ryzen 5 5600X (6) @ 8.0GHz
       GPU  :  AMD Radeon RX 5600 XT
-    Alias  :  terrorist/swiped
-Languages  :  Python
-  Discord  :  902407051605606410
+    Alias  :  Alx/Sync
+Languages  :  Python / Web Dev
+  Discord  :  900190747377147925
 ```
 
 <p align="left">
@@ -27,4 +27,4 @@ Languages  :  Python
 
 ---
 
-![](https://komarev.com/ghpvc/?username=purplrain&style=flat-square)
+![](https://komarev.com/ghpvc/?username=xSyync&style=flat-square)
