@@ -8,10 +8,10 @@
 xSyncc@AltSec
 ----------------
 
-       OS  :  Windows 10 x86
+       OS  :  Windows 10 x86 / Unbuntu 20.04 focal x86
       CPU  :  AMD Ryzen 5 5600X (6) @ 8.0GHz
       GPU  :  AMD Radeon RX 5600 XT
-    Alias  :  Alx/Sync
+    Alias  :  Alx / Sync
 Languages  :  Python / Web Dev
   Discord  :  900190747377147925
 ```
