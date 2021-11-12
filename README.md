@@ -5,7 +5,7 @@
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
 ```csharp
-xSyncc@AltSec
+xSync@AltSec
 ----------------
 
        OS  :  Windows 10 x86 / Unbuntu 20.04 focal x86
